@@ -6,3 +6,6 @@
 
 #### TYPE : DOC, SW, FW, ETC
 #### 프로젝트 번호가 없는 경우 임의로 RD999를 부여한다. 이 후 Rename 할 것.
+
+
+#### https://docs.github.com/ko/get-started 깃허브 설명서
